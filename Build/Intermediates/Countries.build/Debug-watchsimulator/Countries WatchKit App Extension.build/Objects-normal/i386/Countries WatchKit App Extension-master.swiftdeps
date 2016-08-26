@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "870954216aadfa8b1bb8c7b1dd5054e0"
+build_time: [525549518, 653370000]
+inputs:
+  "/Users/martinzhang/Desktop/WatchOS Development/Countries/Countries WatchKit App Extension/ExtensionDelegate.swift": [525549516, 0]
+  "/Users/martinzhang/Desktop/WatchOS Development/Countries/Countries WatchKit App Extension/InterfaceController.swift": [525549516, 0]
